@@ -12,5 +12,5 @@ steps:
 
 when:
   repo:
-    exclude:
+    include:
     - Drone-Pipeline-Repository/Drone-Dev-Test
